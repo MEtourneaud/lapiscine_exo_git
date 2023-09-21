@@ -4,8 +4,23 @@ body{
 
 h1{
     color: yellow;
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
 }
 
 h2{
     color: orange;
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
+
+p{
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
+
+img{
+    text-align: center;
+    margin: auto;
+    display: flex;
 }
